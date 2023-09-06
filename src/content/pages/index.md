@@ -21,50 +21,38 @@ content_blocks:
       text: Conocer más
       link: /signup/
   - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
+    title: ¿Qué es una póliza jurídica de
+    title_suffix: 'arrendamiento? '
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      Una póliza jurídica es un contrato legal que brinda protección a las
+      partes involucradas en caso de conflictos legales.
     alternate_style: false
     numbers:
       - prefix: $
-        number: 200
+        number: 300
         suffix: m
         text: Venture capital raised
-      - prefix:
-        number: 2016
-        suffix:
-        text: Established in
-      - prefix:
-        number: 40
-        suffix: +
-        text: Amazing team members
-      - prefix:
-        number: 4322
-        suffix: +
-        text: Active users and growing
-  - _bookshop_name: home/video
-    image: /images/video/video-thum.jpg
-    image_alt: Thumbnail for video
-    video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: 'Sendit '
-    title_suffix: Features
-    remove_top_padding: true
+    title: Nuestra
+    title_suffix: ' póliza jurídica '
+    remove_top_padding: false
     description: >-
-      Our platform offers the most advanced features including automated email
-      content creation, dynamic personalization, and customer segmentation.
+      Nuestra póliza jurídica de arrendamiento te protegerá a ti y a tu
+      propiedad evitando gastos adicionales, estableciendo los términos y
+      condiciones del contrato de arrendamiento, así como las responsabilidades
+      y obligaciones del propietario y del inquilino.
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-one.png
-    image_alt: Message inbox
-    title: Email Campaign in one minute
+    image: /uploads/poliza.png
+    image_alt: Contar con una póliza jurídica
+    title: Contar con una póliza jurídica de arrendamiento
     description: >-
-      Send an email campaign with one click, in just minutes. Automate your
-      emails and content, while keeping the human touch.
+      Entendemos la importancia de contar con una póliza jurídica de
+      arrendamiento sólida y bien elaborada para proteger tus intereses. Por
+      esta razón, diseñamos un producto capaz de cubrir&nbsp; una amplia gama de
+      situaciones.
     button:
       link: /signup
-      text: Try This Free
+      text: Conoce más
     reversed: false
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-two.png
