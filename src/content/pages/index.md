@@ -48,14 +48,14 @@ content_blocks:
     description: >-
       Entendemos la importancia de contar con una póliza jurídica de
       arrendamiento sólida y bien elaborada para proteger tus intereses. Por
-      esta razón, diseñamos un producto capaz de cubrir&nbsp; una amplia gama de
+      esta razón, diseñamos un producto capaz de cubrir una amplia gama de
       situaciones.
     button:
       link: /signup
       text: Conoce más
     reversed: false
   - _bookshop_name: global/feature
-    image: /uploads/asesoria.jpg
+    image: /uploads/asesoria-1.jpg
     image_alt: Asesoría legal
     title: Asesoría legal
     description: >-
