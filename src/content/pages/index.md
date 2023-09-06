@@ -55,12 +55,14 @@ content_blocks:
       text: Conoce más
     reversed: false
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-two.png
-    image_alt: Visitor chart
-    title: See every Lead in one Place
+    image: /uploads/asesoria.jpg
+    image_alt: Asesoría legal
+    title: Asesoría legal
     description: >-
-      Sales analytics and automation made simple: see every sales lead in one
-      place, regardless of where it came from.
+      A través de la póliza jurídica tendrás incluida asesoría legal durante
+      todo el arrendamiento por parte de nuestros abogados inmobiliarios,
+      quienes son expertos en el área y pueden ayudarte en todas las etapas del
+      proceso de arrendamiento.
     button:
       link: /signup
       text: Try This Free
